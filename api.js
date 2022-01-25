@@ -24,10 +24,15 @@ axios(config)
   console.log(error);
 });
 
-// 1. create a folder
-// 2. create a javascript file (api.js)
-// 3. open the folder you created in step 1 in a terminal. the best way to do this is to open the foler in vscode and run the terminal from there
-// 4. run (npm init --yes)
-// 5. copy the code from postman into api.js file
-// 6. install the required module using (npm i module_name) e.g axios, request, node-fetch
-// 7. run (node api) or (node api.js)
+/* 
+    1. create a folder
+    2. create a javascript file (api.js)
+    3. open the folder you created in step 1 in a terminal. the best way to do this is to open the foler in vscode and run the terminal from there
+    4. run (npm init --yes)
+    5. copy the code from postman into api.js file
+    6. install the required module using (npm i module_name) e.g axios, request, node-fetch
+    7. run (node api) or (node api.js)
+
+
+    Note ===> after cloning from git using (git clone https://github.com/CodeCures/axios-api-calls.git) . run (npm install)
+*/
