@@ -1,0 +1,15 @@
+{
+  "name": "dorcas",
+  "version": "1.0.0",
+  "description": "this is fetch api calls",
+  "main": "api.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "Courage",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "request": "^2.88.2"
+  }
+}
